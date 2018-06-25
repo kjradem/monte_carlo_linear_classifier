@@ -11,7 +11,7 @@ The goal is to generate a formula for linear classification that can accurately 
 
 ![Linear classification](https://user-images.githubusercontent.com/24732704/41862683-e8616346-78a4-11e8-94e2-d5aa90661943.png)
 
-There are many formulas that will accomplish this, however running all possible configurations with limits should result in the formula with the lowest error.
+There are many formulas that will accomplish this, however running all possible configurations within limits should result in the formula with the lowest error.
 
 ## Method
 ![Flow](https://user-images.githubusercontent.com/24732704/41862994-c34d9790-78a5-11e8-9c2d-8d3b78760d15.png)
@@ -59,4 +59,4 @@ There are a couple of configurations that can be edited:
 | training_set_size (float) | Changes the percentage of data used as training set, between 0.0 and 1.0   |
 
 ## Credits
-Originally coded as an assignment for a class on data mining. 
+Originally coded as an assignment for a class on data mining. Data was provided in class as-is, original source unknown.
