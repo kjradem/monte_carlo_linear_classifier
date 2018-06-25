@@ -1,5 +1,5 @@
 # Monte Carlo for a linear classifier
-Monte Carlo simulations to optimize a linear classifier.
+Monte Carlo simulations to optimize a linear classifier by testing all possible coefficient configurations.
 
 ## Background
 ### Monte Carlo Simulations
