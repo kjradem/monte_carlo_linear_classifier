@@ -1,0 +1,8 @@
+dependencies:
+  - python=3.6.5
+  - pip
+  - pip:
+    - matplotlib
+    - numpy
+    - pandas
+    - seaborn
